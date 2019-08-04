@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TO-DO List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="categories">
+        <item>Today</item>
+        <item>Work</item>
+        <item>Shopping</item>
+        <item>Movies to Watch</item>
+        <item>Travel</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="filter">
+        <item>Status completed.</item>
+        <item>Status not completed.</item>
+        <item>Expired.</item>
+        <item>No Filter.</item>
+    </string-array>
+
+    <string-array name="filter_category">
+        <item>Status completed.</item>
+        <item>Status not completed.</item>
+        <item>Expired.</item>
+        <item>No Filter.</item>
+        <item>For My Category</item>
+    </string-array>
+
+    <string-array name="order">
+        <item>Create Date</item>
+        <item>Deadline</item>
+        <item>Name</item>
+        <item>Status</item>
+    </string-array>
+
+</resources>
