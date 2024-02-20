@@ -1,14 +1,10 @@
-# HuaweiTODOList
+# TODOList
 
 All project files (PROJECT / README / PHP / APK): http://cagkankantarci.com/HUAWEI_PROJECT_TO_DO_LIST.rar
 
 PHP: http://cagkankantarci.com/PHP.rar
 
 APK: http://cagkankantarci.com/APK.rar
-
-Aşağıda "BENİ OKU" kısmı hem türkçe hemde ingilizce olarak paylaşılmıştır.
-
-Below, the "READ ME" section is shared both in Turkish and English.
 
 # OKU BENİ 
 
@@ -54,15 +50,13 @@ Below, the "READ ME" section is shared both in Turkish and English.
 
 **Kurulum ve Çalıştırma:**
 
-> Projeyi direk olarak Android Studio’da çalıştırmanız yeterli olacaktır. Onun haricinde dokümanlarımın arasında projenin “apk” sı da eklenmiştir. Direk olarak herhangi bir Android telefona atıp, kurulumu gerçekleştirebilirsiniz. Herhangi bir şey yüklemenize gerek yoktur. Uygulama stabildir. 
+> Projeyi direk olarak Android Studio’da çalıştırmanız yeterli olacaktır. Onun haricinde dokümanlarımın arasında projenin “apk” sı da eklenmiştir. Direk olarak herhangi bir Android telefona atıp, kurulumu gerçekleştirebilirsiniz. Herhangi bir şey yüklemenize gerek yoktur. 
 > Proje hakkında yukarıda bahsedilmiş olan tablolar kullanılmıştır ve bunlar arasında bağlantılar sağlanmıştır. Veritabanı olarak lokal bir yere kaydetmektense, her kullanıcı isteği zaman interneti aktif olan bir telefondan girebilmesi için sanal bir veritabanı yaratıldı. Bunu da Retrofit kütüphanesi kullanılarak yapılmıştır. 
 > Tablolarımı bağlarken ki yazılmış olan SQL komutlarının dosyalarını(PHP’ler),doküman dosyalarımın arasında bulunmaktadır. 
 
 **Not:**
 
-> Proje’nin aşamaların birinde “herhangi bir formatta email adresine veya local depolama’ya “export”” edilmesi istenmiş. Şöyle düşündüm ki buna gerek kalmadan, online bir ortam sağladığımdan kullanıcının verileri hiçbir şekilde başka bir telefona geçtiği an kaybolmayacak, bu nedenle “export” istediğinizi anladım. Fakat yanlış anlamış olacağımdan yine de local depolama’ya liste’yi exportlayabilme imkanı sağlanmıştır kullanıcıya.
-> 	
-> 
+
 > - Kullanıcı Liste’yi oluştururken özellikle başlangıçta oluşturmasına gerek kalmadan, listesini girerken oluşturma imkanı sağlanmıştır. Uygulamaya 4 adet default olarak kategori eklendi. Kullanıcı kendi eklediklerini de “Other Lists” kısmından görebilecek. 
 > - Filtrelemede isme göre filtrelemeyi özellikle herhangi bir yere tıklayarak değil, uygulamaya kullanıcı girişi yaptıktan sonra sağ üsteki arama butonundan eklediğiniz listenin ismine göre arama yapabiliyorsunuz. 
 > - Kullanıcı eklediği listeyi “Settings” bölümünden silebiliyor. Eğer daha önceden eklemediyse Checkbox’lar “Invisible” durumundadır. Göremeyecektir. 
@@ -123,8 +117,6 @@ Teşekkürler. İyi Çalışmalar.
 
 
 **Note:**
-
-> In one of the phases of the project, it was requested to export to any email address or local storage in any format. I thought that without the need for an online environment, the data will not be lost the moment the user passes to another phone, so I understand that you want to export. Maybe I misunderstood, but I still gave the user the ability to export the list to local storage.
 > 
 > - While adding the item that the user wants to add, it is also possible to add a list. 4 default categories were added to the application. The user will be able to see his / her own entries in the “Other Lists ”section.
 > - In filtering, filtering by name is not particularly clicking anywhere. In the application you can search by the name of the list you added from the search button on the top right.
